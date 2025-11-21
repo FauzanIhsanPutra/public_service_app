@@ -1,10 +1,11 @@
 # slicing_public_services
 
-A new Flutter project.
+This is just a slicing for public service booking app, not much else to say
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is intended to fulfill my daily task
+either way, feel free to clone/copy
 
 A few resources to get you started if this is your first Flutter project:
 
